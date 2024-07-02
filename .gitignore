@@ -1,7 +1,6 @@
 
 # dependencies
 /node_modules
-/info.text
 /.pnp
 .pnp.js
 
