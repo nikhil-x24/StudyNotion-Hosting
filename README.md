@@ -56,4 +56,3 @@ This application can be deployed to platforms like **Vercel**.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
