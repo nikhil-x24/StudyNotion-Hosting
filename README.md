@@ -2,7 +2,10 @@
 
 Link to website: https://studynotion-nikhil.vercel.app/
 
+## Overview
+
 This project is an Ed-Tech platform that allows students to buy and view courses, while instructors manage course content. The platform features a user-friendly interface, secure payment integration, and multiple tools to enhance student engagement.
+
 
 ## Features
 
@@ -34,6 +37,34 @@ This project is an Ed-Tech platform that allows students to buy and view courses
 
 This tech stack lists the technologies you’ve used for both the front-end and back-end.
 
+
+## Usage
+
+1. **Visit the Platform:**
+   Navigate to [https://studynotion-nikhil.vercel.app/](https://studynotion-nikhil.vercel.app/) to access the StudyNotion Learning Platform.
+
+2. **For Students:**
+   - **Browse Courses:** Explore a variety of courses available on the platform.
+   - **Purchase Courses:** Select and purchase courses of interest using the integrated payment system.
+   - **View Course Content:** Access purchased courses and track your learning progress.
+   - **Rate Courses:** Provide feedback on courses to help other students make informed decisions.
+
+3. **For Instructors:**
+   - **Manage Courses:** Upload new courses, update existing content, and manage course details.
+   - **Track Student Progress:** Monitor student engagement and progress through the course material.
+
+4. **Account Management:**
+   - **Register/Login:** Sign up or log in using OTP verification for secure access to the platform.
+
+5. **Payment and Security:**
+   - **Complete Transactions:** Use Razorpay to make secure payments for course purchases.
+   - **Secure Access:** Enjoy a secure learning experience with integrated security features.
+
+6. **Explore Additional Features:**
+   - **Track Your Learning:** Keep track of your learning progress and revisit course materials as needed.
+   - **Engage with the Platform:** Utilize the various tools and features to enhance your learning experience and interaction with course content.
+
+
 ## Installation
 
 1. Clone the repository
@@ -53,6 +84,8 @@ This tech stack lists the technologies you’ve used for both the front-end and 
 
 This application can be deployed to platforms like **Vercel**.
 
-## License
+## Connect with Us
 
-This project is licensed under the [MIT License](LICENSE).
+- **Email:** [nikhilverma1425@gmail.com](mailto:nikhilverma1425@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nikhil301](https://www.linkedin.com/in/nikhil301/)
+- **Website:** [nikhil-portfolio.vercel.app](https://nikhilx24-portfolio.vercel.app/)
